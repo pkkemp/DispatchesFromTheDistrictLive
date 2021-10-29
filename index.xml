@@ -6,6 +6,16 @@
     <description>Recent content on Dispatches From the District</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2021, Preston Kemp; all rights reserved.</copyright><atom:link href="https://dispatchesfromthedistrict.com/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2021, Preston Kemp; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 29 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dispatchesfromthedistrict.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Some Personal News</title>
+      <link>https://dispatchesfromthedistrict.com/posts/some-personal-news/</link>
+      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dispatchesfromthedistrict.com/posts/some-personal-news/</guid>
+      <description>Some personal news about the next step in my career.</description>
+    </item>
+    
   </channel>
 </rss>
